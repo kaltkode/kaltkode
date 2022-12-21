@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaltkode
 - 👀 I’m interested in new technology and devices overall, sports, hockey, boardsports, outdoor, MTB
-- 🌱 I’m currently learning cloud/devops, quantum computing, healthtech APIs
+- 🌱 I’m currently learning more and more about cloud, quantum computing, healthtech APIs
 - 💞️ I’m looking to collaborate on health tech developers
 - 📫 How to reach me ... my LinkedIn Antti Kaltiainen
 
